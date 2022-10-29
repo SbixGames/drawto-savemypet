@@ -2,11 +2,11 @@
 	"version": "Draw To Save The RainbowPet",
 
 
-"admobbannerId": "ca-app-pub-3940256099942544/6300978111",
-"admobInterId": "ca-app-pub-3940256099942544/1033173712",
-"admobReward": "ca-app-pub-3940256099942544/5224354917",
-"admobNativeid": "ca-app-pub-3940256099942544/2247696110",
-"admobAppOpenid": "ca-app-pub-3940256099942544/3419835294",
+"admobbannerId": "ca-app-pub-3663545657855192/2657011051",
+"admobInterId": "ca-app-pub-3663545657855192/1590507241",
+"admobReward": "ca-app-pub-3663545657855192/1250707849",
+"admobNativeid": "ca-app-pub-3663545657855192/2851602118",
+"admobAppOpenid": "ca-app-pub-3663545657855192/7695028396",
 
 "applovinsdk": "A8wlgmJAawwWy-xN8SDz4tP_2eB2TNFI-Jh7XBZ5r3Wv2q-HGBanqWP9NKTR6wqzdwK-tiEseJMx1_IDgtcZTm",
 	"applovinbanner": "77c64f9e99e23763",
@@ -21,11 +21,11 @@
 "onesignalid": "acd5f5a4-1509-4818-8339-399d8ac48be7",
 
 "adsSwitch detail ": " 1:admob  2:unity 3:applovin 0:auto",
-"adsSwitchInter": "2",
+"adsSwitchInter": "1",
 "adsSwitchBanner": "1",
-"adsSwitchReward": "3",
+"adsSwitchReward": "1",
 "counterRate": "500",
-"adscounter": "1"
+"adscounter": "3"
 
 	
 
