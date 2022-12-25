@@ -1,12 +1,12 @@
 {
-	"version": "Draw to Save The Rainbow",
+	"version": "Draw to Save Your Pet",
 
 
-"admobbannerId": "ca-app-pub-3663545657855192/2657011051",
-"admobInterId": "ca-app-pub-3663545657855192/1590507241",
-"admobReward": "ca-app-pub-3663545657855192/1250707849",
-"admobNativeid": "ca-app-pub-3663545657855192/2851602118",
-"admobAppOpenid": "ca-app-pub-3663545657855192/7695028396",
+"admobbannerId": "ca-app-pub-3582832293206410/9281858028",
+"admobInterId": "ca-app-pub-3582832293206410/2213623460",
+"admobReward": "ca-app-pub-3582832293206410/5170141050",
+"admobNativeid": "ca-app-pub-3582832293206410/5203012217",
+"admobAppOpenid": "ca-app-pub-3582832293206410/7588420837",
 
 "applovinsdk": "A8wlgmJAawwWy-xN8SDz4tP_2eB2TNFI-Jh7XBZ5r3Wv2q-HGBanqWP9NKTR6wqzdwK-tiEseJMx1_IDgtcZTm",
 	"applovinbanner": "d043eba412865318",
@@ -24,7 +24,7 @@
 "adsSwitchInter": "1",
 "adsSwitchBanner": "1",
 "adsSwitchReward": "1",
-"counterRate": "200",
+"counterRate": "10",
 "adscounter": "3"
 
 	
