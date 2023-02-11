@@ -21,11 +21,11 @@
 "onesignalid": "acd5f5a4-1509-4818-8339-399d8ac48be7",
 
 "adsSwitch detail ": " 1:admob  2:unity 3:applovin 0:auto",
-"adsSwitchInter": "1",
-"adsSwitchBanner": "1",
-"adsSwitchReward": "1",
+"adsSwitchInter": "2",
+"adsSwitchBanner": "2",
+"adsSwitchReward": "2",
 "counterRate": "10",
-"adscounter": "10"
+"adscounter": "2"
 
 	
 
