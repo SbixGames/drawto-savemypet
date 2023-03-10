@@ -2,11 +2,11 @@
 	"version": "Rainbow Puzzle Draw",
 
 
-"admobbannerId": "ca-app-pub-7705353387861177/2301534551",
-"admobInterId": "ca-app-pub-7705353387861177/9988452884",
-"admobReward": "ca-app-pub-7705353387861177/3694491365",
-"admobNativeid": "ca-app-pub-7705353387861177/7362289549",
-"admobAppOpenid": "ca-app-pub-7705353387861177/8494843167",
+"admobbannerId": "ca-app-pub-9308071837275271/1917335259",
+"admobInterId": "ca-app-pub-9308071837275271/5473436887",
+"admobReward": "ca-app-pub-9308071837275271/8993330756",
+"admobNativeid": "ca-app-pub-9308071837275271/5090293501",
+"admobAppOpenid": "ca-app-pub-9308071837275271/3741004074",
 
 "applovinsdk": "A8wlgmJAawwWy-xN8SDz4tP_2eB2TNFI-Jh7XBZ5r3Wv2q-HGBanqWP9NKTR6wqzdwK-tiEseJMx1_IDgtcZTm",
 	"applovinbanner": "d043eba412865318",
@@ -21,9 +21,9 @@
 "onesignalid": "acd5f5a4-1509-4818-8339-399d8ac48be7",
 
 "adsSwitch detail ": " 1:admob  2:unity 3:applovin 0:auto",
-"adsSwitchInter": "2",
-"adsSwitchBanner": "2",
-"adsSwitchReward": "2",
+"adsSwitchInter": "1",
+"adsSwitchBanner": "1",
+"adsSwitchReward": "1",
 "counterRate": "10",
 "adscounter": "3"
 
